@@ -1,3 +1,6 @@
+# Warning
+**This plugin is just starting. If has not been submitted to the repository so those installation methods won't function. I am also teaching myself how to use git, how to make a grav plugin and learning grav user account management all at once. Please don't judge too harshly.**  
+
 # Login Cas Plugin Plugin
 
 **This README.md file should be modified to describe the features, installation, configuration, and general usage of this plugin.**
